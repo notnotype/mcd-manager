@@ -9,6 +9,9 @@ packages = [{include = "mcd_manager"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+mcdreforged = "^2.10.2"
+loguru = "^0.7.0"
+pyyaml = "^6.0.1"
 
 
 [build-system]
