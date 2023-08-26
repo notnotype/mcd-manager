@@ -1,0 +1,17 @@
+apiKey: "4c5c2707b3d74505ba5b5a0180f25ba4"
+base_url: "http://127.0.0.1:23333"
+server_name: "survival"
+
+servers:
+  - name: "survival"
+    uuid: "ef784edf64f94b3fbdbc5133b7b83b56"
+    remote_uuid: "32323ed3902d49bc99918afc474fcc48"
+    close_after: 0
+  - name: "creative"
+    uuid: "581ca2ff5854449592b214f5959f37ea"
+    remote_uuid: "32323ed3902d49bc99918afc474fcc48"
+    close_after: 3600
+  - name: "mirror"
+    uuid: "de6d3d8139994b4d9bf8c8e173160b88"
+    remote_uuid: "32323ed3902d49bc99918afc474fcc48"
+    close_after: 3600

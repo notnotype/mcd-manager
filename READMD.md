@@ -1,1 +1,1 @@
-# mcd-manager
+# mcdr-manager

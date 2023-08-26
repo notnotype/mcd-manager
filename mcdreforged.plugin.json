@@ -1,0 +1,11 @@
+{
+  "id": "mcdr_manager",
+  "version": "1.0.0",
+  "name": "McdReforged manager client",
+  "description": "McdReforged manager client",
+  "author": "notnotype",
+  "link": "https://github.com/notnotype/mcd-manager",
+  "dependencies": {
+    "mcdreforged": ">=2.0.0-alpha.1"
+  }
+}
